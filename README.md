@@ -29,11 +29,10 @@ Pela análise do gráfico obtido verifica-se que ocorre um amortecimento gradual
 🔧 Tecnologias utilizadas:
 ------------------
 
-- <strong>Octave</strong>
+- <strong>Excell</strong>
 - <strong>MacOS</strong>
 
 
-Para instalar Octave: https://wiki.octave.org/Octave_for_macOS
 💬 Fale comigo
 ------------------
 [*Entre em contato comigo*](https://www.linkedin.com/in/ivo-baptista-3712144/)
